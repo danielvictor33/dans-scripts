@@ -5,7 +5,7 @@ A collection of modular shell scripts. Each script lives in its own folder under
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/your-user/my-scripts.git
+git clone https://github.com/danielvictor33/dans-scripts.git
 cd my-scripts
 ./install.sh
 ```
